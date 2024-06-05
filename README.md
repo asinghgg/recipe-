@@ -7,7 +7,7 @@
     <title>Image Example</title>
 </head>
 <body>
-   
+    <h1></h1>
     <img src="images.jpeg" alt="A omelette">
 </body>
 </html>
