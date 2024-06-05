@@ -3,6 +3,7 @@
 An quick and easy dish, perfect for any measl. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice od cheese vegetables, or meats. 
 
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +20,7 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
 </head>
 <body>
     <!-- Apply the custom styles to the text -->
-    <p class="custom-text">"Preparation Time".</p>
+    <p class="custom-text">Preparation Time</p>
 </body>
 </html>
 
