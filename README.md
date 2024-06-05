@@ -5,7 +5,7 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
 
 Preparation Time
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
