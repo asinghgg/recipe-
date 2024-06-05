@@ -19,7 +19,7 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
 </head>
 <body>
     <!-- Apply the custom styles to the text -->
-    <p class="custom-text">Preparation Time.</p>
+    <p class="custom-text">"Preparation Time".</p>
 </body>
 </html>
 
