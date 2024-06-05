@@ -1,18 +1,7 @@
-# Recipe on making Vanila Cake
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Example</title>
-</head>
-<body>
-    <h1></h1>
-    <img src="images.jpeg" alt="A omelette">
-</body>
-</html>
+# Simple Omelette Recipe
 
-How to build a cake:
-- 3 eggs
-- 1 cup of flour
-- 1 tablespoon of vanila extract 
+An quick and easy dish, perfect for any measl. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice od cheese vegetables, or meats. 
+
+
+#Preparation Time
+
