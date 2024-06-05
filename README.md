@@ -8,7 +8,7 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Styling Example</title>
+    <title>Simple Omelette Recipe</title>
     <style>
         /* Define CSS styles */
         .custom-text {
@@ -19,10 +19,7 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
     </style>
 </head>
 <body>
-    <!-- Apply the custom styles to the text -->
     <p class="custom-text">Preparation Time</p>
 </body>
 </html>
-
-
 
