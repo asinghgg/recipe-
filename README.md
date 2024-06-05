@@ -23,7 +23,9 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 </html>
 
 <b>Total</b> : Approximately 10 minutes
+
 <b>Preparation</b> : 5 minutes
+
 <b>Cooking</b> : 5 minutes
 
 
