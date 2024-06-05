@@ -15,14 +15,14 @@ Preparation Time
         /* Define CSS styles */
         .custom-text {
             font-size: 18px;
-            color: red;
+            color: pink;
             font-weight: bold;
         }
     </style>
 </head>
 <body>
     <!-- Apply the custom styles to the text -->
-    <p class="custom-text">This text has a font size of 18 pixels, is red, and bold.</p>
+    <p class="custom-text">Preparation Time.</p>
 </body>
 </html>
 
