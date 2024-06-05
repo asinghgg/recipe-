@@ -4,23 +4,27 @@ An quick and easy dish, perfect for any measl. This classic omelette combines be
 
 
 Preparation Time
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS Example</title>
+    <title>Styling Example</title>
     <style>
+        /* Define CSS styles */
         .custom-text {
             font-size: 18px;
-            color: pink;
+            color: red;
             font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <p class="custom-text">Preparation Time.</p>
+    <!-- Apply the custom styles to the text -->
+    <p class="custom-text">This text has a font size of 18 pixels, is red, and bold.</p>
 </body>
 </html>
+
 
 
