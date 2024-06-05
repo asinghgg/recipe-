@@ -1,9 +1,8 @@
 # Simple Omelette Recipe
 
-An quick and easy dish, perfect for any measl. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice od cheese vegetables, or meats. 
+An quick and easy dish, perfect for any meals. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice od cheese vegetables, or meats. 
 
 
-<!DOCTYPE html>        
 <html lang="en">
 <head>
     <meta charset="UTF-8">
