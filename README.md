@@ -22,11 +22,19 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 </body>
 </html>
 
-<b>Total</b> : Approximately 10 minutes
-
-<b>Preparation</b> : 5 minutes
-
-<b>Cooking</b> : 5 minutes
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Time</title>
+</head>
+<body>
+    <p><b>Total</b> : Approximately 10 minutes</p>
+    <p><b>Preparation</b> : 5 minutes</p>
+    <p><b>Cooking</b> : 5 minutes</p>
+</body>
+</html>
 
 
 
