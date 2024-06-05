@@ -28,7 +28,6 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 
 
 
-<!DOCTYPE html>        
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -60,7 +59,7 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 </ol>
 -------------------------------------------------------------------------
 
-<!DOCTYPE html>        
+      
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -90,4 +89,73 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 
 5.  <b>Fold and serve</b> : As he omelette contunines to cook, carefully lift one edge and fold it over the fillings. Let it cook for anoher minute, then slide it onto a plate.
 
-6.  <b>Enjoy</b> : Serve hot, with addtional salt and pepper if needed. 
+6.  <b>Enjoy</b> : Serve hot, with addtional salt and pepper if needed.
+
+
+-------------------------------------------------------------------------
+
+      
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Omelette Recipe</title>
+    <style>
+        /* Define CSS styles */
+        .custom-text {
+            font-size: 18px;
+            color: pink;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <p class="custom-text">Nutrition</p>
+</body>
+</html>
+
+The table below shows nutritional values per serving without addtional fillings. 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrition Table</title>
+    <style>
+        /* CSS for styling the table */
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+        }
+        /* Style for bolding and coloring the right side */
+        td:last-child {
+            font-weight: bold;
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>Calories</td>
+            <td>277kcal</td>
+        </tr>
+        <tr>
+            <td>Carbs</td>
+            <td>0g</td>
+        </tr>
+        <tr>
+            <td>Protein</td>
+            <td>20g</td>
+        </tr>
+        <tr>
+            <td>Fat</td>
+            <td>22g</td>
+        </tr>
+    </table>
+</body>
+</html>
+
