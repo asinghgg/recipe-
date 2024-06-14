@@ -1,5 +1,20 @@
 # Simple Omelette Recipe
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="https://downshiftology.com/recipes/how-to-make-an-omelette/" alt="omelette">
+</body>
+</html>
+
+
+
+
 An quick and easy dish, perfect for any meals. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice od cheese vegetables, or meats. 
 
 
