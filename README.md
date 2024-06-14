@@ -8,7 +8,7 @@
     <title>Image Example</title>
 </head>
 <body>
-    <img src="https://downshiftology.com/recipes/how-to-make-an-omelette/" alt="omelette">
+    <img src="[https://downshiftology.com/recipes/how-to-make-an-omelette/](https://www.simplyrecipes.com/thmb/LLhiA8KZ7JZ5ZI0g-1bF1eg-gGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__10__HT-Make-an-Omelet-LEAD-HORIZONTAL-17cd2e469c4a4ccbbd1273a7cae6425c.jpg)" alt="omelette">
 </body>
 </html>
 
@@ -37,7 +37,6 @@ An quick and easy dish, perfect for any meals. This classic omelette combines be
 </body>
 </html>
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
